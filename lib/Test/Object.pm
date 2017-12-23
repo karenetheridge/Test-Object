@@ -97,7 +97,7 @@ use Test::More         ();
 use Scalar::Util       ();
 use Test::Object::Test ();
 
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 use vars qw{@ISA @EXPORT};
 BEGIN {
 	@ISA     = 'Exporter';

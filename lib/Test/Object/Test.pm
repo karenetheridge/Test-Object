@@ -4,7 +4,7 @@ use strict;
 use Carp         ();
 use Scalar::Util ();
 
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 
 
